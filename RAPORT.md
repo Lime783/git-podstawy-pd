@@ -13,8 +13,8 @@ W miarę pisania kodu możemy być pewni, że pewien fragment jest już dobry, a
 git log pokazuje hash commita, autora, date i notatke. --oneline skraca to do hashu commita oraz notatki.
 Przeważnie używa się drugiej opcji, chyba że chcemy wiedzieć kogo opierdzielić za zbyt późnego commita.
 5. Załącz screenshot z git log --oneline w terminalu i z widoku Log w IntelliJ -- z Twoimi 2 commitami. \
-![terminal](./screenshots/zad1/1.png)
-![Intelij](./screenshots/zad1/2.png)
+![terminal](screenshots/Zad1/1.png)
+![Intelij](screenshots/Zad1/2.png)
 
 # Zadanie 2
 
@@ -30,8 +30,8 @@ a drugi do push (z lokalnego repo do remote)
 Potencjalnie duże straty gdy ktoś nieautoryzowany uzyska dostęp do naszego hasła, zamiast tego używa się tokenów,
 które na dodatek ustawiamy w jakim zakresie są ważne (np. jedynie repo) oraz na określony czas
 5. Załącz screenshot strony Twojego repo git-zad2-github na GitHubie z widoczną historią 2 commitów. \
-![github](./screenshots/zad2/1.png)
-![historia commitów](./screenshots/zad2/2.png)
+![github](screenshots/Zad2/1.png)
+![historia commitów](screenshots/Zad2/2.png)
 
 # Zadanie 3
 
